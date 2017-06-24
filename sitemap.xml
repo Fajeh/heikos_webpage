@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fajeh.github.io/heikos_page/categories/</loc>
+    <loc>https://fajeh.github.io/heikos_webpage/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fajeh.github.io/heikos_page/</loc>
+    <loc>https://fajeh.github.io/heikos_webpage/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fajeh.github.io/heikos_page/tags/</loc>
+    <loc>https://fajeh.github.io/heikos_webpage/tags/</loc>
     <priority>0</priority>
   </url>
   
